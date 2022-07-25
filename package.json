@@ -1,0 +1,20 @@
+{
+  "name": "seccion-5-consola-interactiva",
+  "version": "1.0.0",
+  "description": "Crear aplicacion de Tareas por consola interactiva",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Gustavo Chura",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4",
+    "uuid": "^8.3.2"
+  }
+}
